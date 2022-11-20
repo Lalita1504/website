@@ -1,0 +1,10 @@
+body {
+  font-family: "Montserrat", sans-serif !important;
+  font-size: 1.2em;
+}
+
+.logo {
+  text-transform: capitalize !important;
+  font-weight: 500 !important;
+  font-size: 1.2em !important;
+}

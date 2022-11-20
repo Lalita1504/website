@@ -1,0 +1,14 @@
+body {
+  font-family: "Montserrat", sans-serif !important;
+  font-size: 1.2em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: royalblue !important;
+}
+
+.logo {
+  text-transform: capitalize !important;
+  font-weight: 500 !important;
+  font-size: 1.2em !important;
+}
